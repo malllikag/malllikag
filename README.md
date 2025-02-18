@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mallika Gummuluri! 
-- 🌱 USC M.S. Student in Spatial Data Science with professional and academic experience in machine learning, software experimentation, and Web Development. 
+- 🌱 Recent USC M.S. graduate in Spatial Data Science with professional and academic experience in machine learning, software experimentation, and Web Development. 
 
 
 
